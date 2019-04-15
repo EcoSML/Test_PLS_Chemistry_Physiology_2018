@@ -1,0 +1,8 @@
+{
+  "id": "a60e5590-66ef-4bd5-bc6d-ff7a45ecbd9e",
+  "name": "Test_PLS_Chemistry_Physiology_2018",
+  "overview": "PLS coefficients and application code for predicting chemical and physiological traits in leaves.",
+  "organization": "uw-enspec",
+  "language": "python",
+  "owner": "ewagner"
+}
